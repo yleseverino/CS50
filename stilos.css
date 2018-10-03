@@ -1,5 +1,14 @@
 div{
   background-color: teal;
-  width: 100px;
-  height: 400px;
+  width: 50%;
+  height: 50%;
+  align-self: center;
+  margin: 40px;
+  padding: 50px;
+}
+
+div{
+  font-family: arial, sans-serif;
+  font-size: 28px;
+  font-weight: bold;
 }
