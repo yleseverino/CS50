@@ -1,2 +1,4 @@
 # CS50
-curso cs50 edx
+
+
+Somes examples and projects that I did when I was studing the course.
