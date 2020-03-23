@@ -6,13 +6,9 @@ int count(unsigned long long int n);
 
 void card(int n, int initial);
 
-int first_digits(unsigned long long int n, int number);
-
-int last_digit(int n);
+int first_digits(unsigned long long int n);
 
 bool luhn(unsigned long long int n, int digits);
-
-int mypow(int a, int b);
 
 void testcard(unsigned long long int n);
 
@@ -63,13 +59,13 @@ void card(int n, int initial)
 
 }
 
-int first_digits(unsigned long long int n, int number)
+int first_digits(unsigned long long int n)
 {
     unsigned long long int first = n;
 
     int f;
 
-    while (first >= mypow(10, number))
+    while (first >= 100)
     {
         first /= 10;
     } 
@@ -79,24 +75,14 @@ int first_digits(unsigned long long int n, int number)
     return f;
 }
 
-int last_digit(int n)
-{
-    int lastDigit = n % 10;
-
-    return lastDigit;
-   
-}
 
 bool luhn(unsigned long long int n, int digits)
 {
     int odd = 0;
     int even = 0;
 
-
     int last;
 
-  
-  
     for (int i = 1 ; i < digits + 1 ; i++)
     {
             
@@ -133,7 +119,7 @@ bool luhn(unsigned long long int n, int digits)
     even += odd;
 
 
-    if (last_digit(even) == 0)
+    if (even % 10  == 0)
     {
         return 1;
     }
@@ -162,7 +148,7 @@ void testcard(unsigned long long int n)
 
     if (luhn(n, tcount) == true)
     {
-        card(tcount, first_digits(n, 2));
+        card(tcount, first_digits(n));
     }
     else
     {
