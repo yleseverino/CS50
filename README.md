@@ -1,4 +1,24 @@
-# CS50
+# **Yle's solutions to HarvardX CS50**
+
+## Disclaimer
+Some codes is this repository needs the CS50.h library to run;
+
+## My CS50 journey
+Prior to CS5, I already had study C and Python a little in my university, nonetheless my course is Eletric engeniring, so while it made my transition to CS50 more fluid, it was nonetheless a novel challenge for me.
+
+Personally, I loved the lectures the way that is explaned, with mailboxes, lights, etc. makes really ease to understand everything, even pointers. Even the videos are usualy 1 heure long, it is yet succinct, insithful and inspiring to say the least.
 
 
-Somes examples and projects that I did when I was studing the course.
+## Memos about (some of) my solutions
+
+  
+2. **pset2/crack**
+  
+  
+  
+3. **pset3/resize/more**
+  
+  
+4. **pset4**
+
+  
