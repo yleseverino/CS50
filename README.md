@@ -1,7 +1,7 @@
 # **Yle's solutions to HarvardX CS50**
 
 ## Disclaimer
-Some codes is this repository needs the CS50.h library to run;
+Some codes is this repository needs the CS50.h library to run
 
 ## My CS50 journey
 Prior to CS5, I already had study C and Python a little in my university, nonetheless my course is Eletric engeniring, so while it made my transition to CS50 more fluid, it was nonetheless a novel challenge for me.
