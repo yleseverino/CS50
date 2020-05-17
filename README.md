@@ -27,6 +27,7 @@ in this algorithm, I faced a very big problem, which was how to debug the code e
 4. **pset4**<br>
 the problems in this section are very cool, both to program image filters and to recover files, both taught me a lot about how the computer files are, how the binaries are stored, so every minute writing this algorithm was extremely fun
 
-5 **pset5/speller**
+5. **pset5/speller**<br>
+Wow, the David's data structure class  was very interesting, I loved every minute of it, and implementing a hash table on this problem was something I dedicated to making it as fast as possible. I used the hash djb2 algorithm that I discovered on the internet, as was hinted in the course instead of creating my own, to avoid collisions as much as possible and I tried to reduce as much as possible the use of for within my program.
 
   
