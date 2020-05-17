@@ -11,7 +11,7 @@ Personally, I loved the lectures the way that is explaned, with mailboxes, light
 
 ## Memos about (some of) my solutions
 
-1. **pset1/card**
+1. **pset1/card**<br>
 I found the idea behind this algorithm, the verification of a credit card, very cool. When I wrote this code I tried to make it very modular, with very small and simple functions. I really liked the result but I needed to add more comments
   
 2. **pset2/crack**
