@@ -32,14 +32,3 @@ Wow, the David's data structure class  was very interesting, I loved every minut
 
 6. **pset6/dna**
 When I finished writing the code and looked at it, I was sure, this is the most beautiful python code I've ever written !!. Besides, it was sensational learn a little about DNA and how FBI check it is done, incredible!
-6. **pset6/dna**
-When I finished writing the code and looked at it, I was sure, this is the most beautiful python code I've ever written !!. Besides, it was sensational learn a little about DNA and how FBI check it is done, incredible!
-6. **pset6/dna**
-When I finished writing the code and looked at it, I was sure, this is the most beautiful python code I've ever written !!. Besides, it was sensational learn a little about DNA and how FBI check it is done, incredible!
-6. **pset6/dna**
-When I finished writing the code and looked at it, I was sure, this is the most beautiful python code I've ever written !!. Besides, it was sensational learn a little about DNA and how FBI check it is done, incredible!
-6. **pset6/dna**
-When I finished writing the code and looked at it, I was sure, this is the most beautiful python code I've ever written !!. Besides, it was sensational learn a little about DNA and how FBI check it is done, incredible!
-6. **pset6/dna**
-When I finished writing the code and looked at it, I was sure, this is the most beautiful python code I've ever written !!. Besides, it was sensational learn a little about DNA and how FBI check it is done, incredible!
-  
