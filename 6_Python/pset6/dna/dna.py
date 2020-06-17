@@ -3,7 +3,6 @@ __email__ = "ylewap0@gmail.com"
 
 
 __license__ = "MIT"
-__version__ = "1.0.1"
 
 
 import pandas
