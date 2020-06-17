@@ -30,5 +30,5 @@ the problems in this section are very cool, both to program image filters and to
 5. **pset5/speller**<br>
 Wow, the David's data structure class  was very interesting, I loved every minute of it, and implementing a hash table on this problem was something I dedicated to making it as fast as possible. I used the hash djb2 algorithm that I discovered on the internet, as was hinted in the course instead of creating my own, to avoid collisions as much as possible and I tried to reduce as much as possible the use of for within my program.
 
-6. **pset6/dna**
+6. **pset6/dna**<br>
 When I finished writing the code and looked at it, I was sure, this is the most beautiful python code I've ever written !!. Besides, it was sensational learn a little about DNA and how FBI check it is done, incredible!
