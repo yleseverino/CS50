@@ -32,3 +32,6 @@ Wow, the David's data structure class  was very interesting, I loved every minut
 
 6. **pset6/dna**<br>
 When I finished writing the code and looked at it, I was sure, this is the most beautiful python code I've ever written !!. Besides, it was sensational learn a little about DNA and how FBI check it is done, incredible!
+
+7. **pset7**<br>
+SQL is wonderful simple as this, very simple, it goes straight to the point, I loved writing the queries in pest7 / movies, and developing the python import and reading algorithm in pset7/houses it gave me a lot of insight into how programs work and data storage, thank you very much David J. Malan.
