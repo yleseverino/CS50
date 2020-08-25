@@ -36,5 +36,5 @@ When I finished writing the code and looked at it, I was sure, this is the most 
 7. **pset7**<br>
 SQL is wonderful simple as this, very simple, it goes straight to the point, I loved writing the queries in pest7 / movies, and developing the python import and reading algorithm in pset7/houses it gave me a lot of insight into how programs work and data storage, thank you very much David J. Malan.
 
-8. **pset8/Homepage**<br>
+8. **pset8/homepage**<br>
 After a little time reflecting I chose the Web path, at the beginning I confess that I almost quit, because I had a lot of work to adapt myself to program in CSS, since it was the first time that I worked with visual things, however seeing my homepage ready and after some time I managed to adapt, I still have a lot of difficulty formatting all the elements well, but I'm starting to enjoying it :D [my homepage](https://github.com/yleseverino/homepage-cs50)
