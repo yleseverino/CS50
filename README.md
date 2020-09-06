@@ -4,9 +4,9 @@
 Some codes is this repository needs the CS50.h library to run
 
 ## My CS50 journey
-Prior to CS50, I already had study C and Python a little in my university, nonetheless my course is Eletric engeniring, so while it made my transition to CS50 more fluid, it was nonetheless a novel challenge for me.
+Prior to CS50, I had already studied C and Python a little in my university, nonetheless my course is Eletric engeneering, so while it made my transition to CS50 more fluid, it was nonetheless a novel challenge for me.
 
-Personally, I loved the lectures the way that is explaned, with mailboxes, lights, etc. makes really ease to understand everything, even pointers. Even the videos are usualy 1 heure long, it is yet succinct, insithful and inspiring to say the least.
+Personally, I loved the lectures the way that is explaned, with mailboxes, lights, etc. makes really easy to understand everything, even pointers. Even the videos are usualy 1 hour long, it is yet succinct, insithful and inspiring to say the least.
 
 
 ## Memos about (some of) my solutions
